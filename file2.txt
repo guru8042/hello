@@ -1,3 +1,12 @@
 
+
+hello from masterrrr
+
+
 file2
 hello file2 conflict
+
+
+hello from masterrrr
+hello file2 conflict
+
