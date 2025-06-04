@@ -1,1 +1,2 @@
 hello from masterrrr
+hello file2 conflict
