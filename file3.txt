@@ -1,2 +1,6 @@
+
 hello file3 from master
 
+
+hello file3
+updated conflict
